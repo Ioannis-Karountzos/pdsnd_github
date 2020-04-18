@@ -1,8 +1,8 @@
 ### Date created
-Include the date you created this project and README file.
+The `bikeshare.py` was completed on **April 14, 2020** while the repo was created on **April 17, 2020**.
 
 ### Project Title
-Replace the Project Title
+## Explore Bikeshare US Data.
 
 ### Description
 Describe what your project is about and what it does
