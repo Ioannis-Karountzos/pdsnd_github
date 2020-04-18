@@ -1,0 +1,2 @@
+*.csv
+# Ignores chicago.csv, new_york_city.csv and washington.csv
