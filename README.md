@@ -10,10 +10,10 @@ In this project, we use data provided by _Motivate_, a bike share system provide
 Using `python`, we uncover bike share usage patterns for three large cities: Chicago, New York City, and Washington, DC.
 
 Specifically, after filtering for city and optionally, for month and day of the week, we calculate statistics about:
-* **Time**, like the most common month, day and starting time.
-* **Stations**, like the most popular stations and trips.
-* **Trip duration**, total and average.
-* **Users**, like the number of them, their gender, customer type and age.
+* **Time**. We calculate the most common month, day and starting time.
+* **Stations**. We find the most polpular start station, end station and trip.
+* **Trip duration**. We calculate both total and average trip duration.
+* **Users**. We find the number of them, their gender, their customer type and age.
 
 We also give the user the option to display the raw data for each city.
 
