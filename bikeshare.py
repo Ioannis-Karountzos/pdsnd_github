@@ -254,10 +254,10 @@ def user_stats(df, city):
 def raw_data(df):
     """Displays raw data on bikeshare users."""
     data_req = input('Would you like display the raw data for the first five users? Enter yes or no: ').lower()
-    i = 0
+    count = 0
     while data_req == 'yes':
-        print(df[i : 5 + i])
-        i += 5
+        print(df[count: count + 5])
+        count += 5
         data_req = input('Would you like display the raw data for another five users? Enter yes or no: ').lower()
 
 def main():
